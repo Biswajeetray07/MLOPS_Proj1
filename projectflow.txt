@@ -142,8 +142,13 @@
 33. Now paste the public ip address on the address bar +:5080 and your app will be launched.
 34. You can also do model training on /training route
 
+mongodb username = biswajeetray077_db_user
+mongodb password = 6372174006Bisu
 
-username: mongodb-> biswajeetray077_db_user
-password->bJlnRQZWowp7yeJ7
+mongodb string = mongodb+srv://biswajeetray077_db_user:6372174006Bisu@cluster0.yarzuls.mongodb.net/?appName=Cluster0
 
-connection string = mongodb+srv://biswajeetray077_db_user:<db_password>@cluster0.yarzuls.mongodb.net/?appName=Cluster0
+
+mongoDB username = "biswajeetray077_db_user"
+mongoDB password = "U3pZgoTNFlJa2Xe7"
+
+mongo_db_connections = "mongodb+srv://biswajeetray077_db_user:<db_password>@cluster0.kaoozwg.mongodb.net/?appName=Cluster0"
